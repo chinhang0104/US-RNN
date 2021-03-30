@@ -4,7 +4,7 @@
 pip install numpy, pandas, math, sklearn, datetime, matplotlib, tensorflow
 ```
 ## Abstract
-Using [New York Stock Exchange](https://www.kaggle.com/dgawlik/nyse), I have built a LSTM model predicting stock price.
+Using data from [New York Stock Exchange](https://www.kaggle.com/dgawlik/nyse), I have built a LSTM model predicting stock price.
 
 The prediction result is shown below, 
 
